@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Dominik Blazevic">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>Vježba 9</title>
+    <style>
+        div{
+            text-align:center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="div">
+        <p>
+            <b>Predmet se odnosi </b> do it <span style="color:red;"> na web development.</span>
+            Predmet je na 3. godini 
+        </p>
+        <p>
+            <b>Dominik</b> vjezba Web aplikacije, <span style="color:red;"> zanimljiv </span> predmet.
+        </p>
+    </div>
+    <hr>
+    <div class="div">
+
+<p>
+    <p><b>Ovo je 9. </b> vjezba iz  <span style="color:red;">WEB APLIKACIJA,</span> zanimljiv predmet.</p>
+    <p> Ovu stranicu <b>je napravio</b> <span style="color:red;">Dominik.</span></p>
+</p>
+
+
+    </div>
+</body>
+
+</html>
